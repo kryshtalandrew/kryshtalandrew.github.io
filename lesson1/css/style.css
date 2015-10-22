@@ -3,6 +3,9 @@ body {
   font-family: 'Helvetica Neue Pro';
   font-size: 18px;
 }
+h1{
+	font-size: 25px
+}
 .main-wrapper{
 	width: 420px;
   background-color: #fff;
