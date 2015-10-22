@@ -1,3 +1,8 @@
+body {
+  background-color: #eee;
+  font-family: 'Helvetica Neue Pro';
+  font-size: 18px;
+}
 .main-wrapper{
 	width: 420px;
   background-color: #fff;
