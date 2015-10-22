@@ -2,6 +2,7 @@ body {
   background-color: #eee;
   font-family: 'Helvetica Neue Pro';
   font-size: 18px;
+  margin: auto;
 }
 h1{
 	font-size: 25px;
