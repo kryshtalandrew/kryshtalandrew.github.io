@@ -22,5 +22,7 @@ h1{
 }
 .photo{
 	text-align: center;
-  width: 180px;
+}
+img {
+  width: 300px;
 }
