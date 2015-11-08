@@ -61,7 +61,7 @@ header ul li {
 	border: 1px solid #c9c9c9;
 	padding-left: 40px;
 	border-bottom: none;
-	text-decoration: none;
+	color: #000;
 }
 .side_menu ul li:last-child a{
 	border-bottom: 1px solid #c9c9c9;
