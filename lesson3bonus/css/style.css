@@ -1,0 +1,16 @@
+body{
+	background: url(../img/bg.jpg) no-repeat;
+	height: 100%;
+	background-size: cover;
+}
+header {
+	padding: 0px 30px;
+	position: relative
+}
+header p{
+	text-align: left;
+	position: absolute;
+	bottom: 0;
+	right: 30px;
+	color: white;
+}
