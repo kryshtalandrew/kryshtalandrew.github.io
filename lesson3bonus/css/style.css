@@ -3,7 +3,7 @@ body{
 	height: 100%;
 	background-size: cover;
 }
-header {
+header{
 	padding: 0px 30px;
 	position: relative
 }
@@ -13,4 +13,27 @@ header p{
 	bottom: 0;
 	right: 30px;
 	color: white;
+}
+.mainwrapper div{
+	width: 32%;
+	margin-right: 2%;
+	text-align: center;
+	float: left;
+	color: white;
+	text-align: center;
+}
+.mainwrapper div:nth-child(3n+3){
+	margin-right: 0;
+}
+.mainwrapper div img {
+	border-radius: 3px;
+	border: 3px solid #c9c9c9;
+	width: 100%;
+}
+footer p{
+	text-align: center;
+	color: white;
+}
+.mainwrapper  {
+	padding: 0 30px 50px
 }
