@@ -1,0 +1,9 @@
+*{
+	box-size: border-box;
+}
+body {
+	background: url(../img/bg.jpg);
+	background-repeat: no-repeat;
+	height: 100%;
+	margin-top: 0px
+}
